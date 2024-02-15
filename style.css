@@ -64,7 +64,7 @@ header {
   display: grid;
   grid-template-columns: 0.2fr 2fr;
   gap: 20px;
-  padding: 1.5rem;
+  padding: 0rem 0 10rem 0;
 }
 
 .side-header {
@@ -150,6 +150,7 @@ nav ul li a {
   align-items: center;
   width: 100%;
   height: 100%;
+  padding-bottom: 6rem;
 }
 
 .slide-content h1 {
